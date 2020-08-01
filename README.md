@@ -1,5 +1,5 @@
-# Rocket League Stats API
-##### Get your Rocket League stats
+# Rocket League Playlist API
+##### Get your Rocket League playlist stats
 
 #### Usage:
 
